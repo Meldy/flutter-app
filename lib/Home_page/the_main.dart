@@ -11,7 +11,6 @@ class MyMap extends StatefulWidget {
   @override
   _MyMapState createState() => _MyMapState();
 }
-//my api key is AIzaSyBC1EPXfpwVZr8XTP90xB5LN51w98qYdAM
 /*class _MyMapState extends State<MyMap> with AutomaticKeepAliveClientMixin {
   late GoogleMapController mapController;
 
