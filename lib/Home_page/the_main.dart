@@ -31,6 +31,7 @@ class _MyMapState extends State<MyMap>{
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
+
         title: const Text('my map'),
            backgroundColor: Colors.blue,
         ),
